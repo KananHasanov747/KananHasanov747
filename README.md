@@ -1,4 +1,11 @@
-## Hi there 👋
+<h3>Hello</h1>
+
+I'm a self-taught Full-Stack Python Developer. My stack includes:
+
+- <img src="https://react.dev/favicon-32x32.png" style="height: 18px;" /> React
+- <img src="https://remix.run/favicon-32.png" style="height: 18px;" /> Remix
+- <img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="height: 18px;" /> Django
+- <img src="https://www.postgresql.org/favicon.ico" style="height: 18px;" /> PostgreSQL
 
 <!--
 **KananHasanov747/KananHasanov747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
