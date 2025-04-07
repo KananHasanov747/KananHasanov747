@@ -1,6 +1,6 @@
-👨‍💻 Software Engineer
+👨‍💻 Self-taught Software Engineer
 ---
-I'm a self-taught Full-Stack Python Developer. My stack includes:
+
 
 ---
 
@@ -23,6 +23,6 @@ I'm a self-taught Full-Stack Python Developer. My stack includes:
 
 ### 🔥 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KananHasanov747&theme=dark&background=000000)](https://git.io/streak-stats)
+![Kanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kananhasanov747&show_icons=true&theme=gruvbox)&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KananHasanov747&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KananHasanov747&theme=gruvbox)
