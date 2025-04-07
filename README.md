@@ -1,23 +1,28 @@
-<h3>Hello</h1>
-
+👨‍💻 Software Engineer
+---
 I'm a self-taught Full-Stack Python Developer. My stack includes:
 
-- <img src="https://react.dev/favicon-32x32.png" style="height: 18px;" /> React
-- <img src="https://remix.run/favicon-32.png" style="height: 18px;" /> Remix
-- <img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" style="height: 18px;" /> Django
-- <img src="https://www.postgresql.org/favicon.ico" style="height: 18px;" /> PostgreSQL
+---
 
-<!--
-**KananHasanov747/KananHasanov747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Languages and Tools :
 
-Here are some ideas to get you started:
+<div>
+  <img src="assets/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="assets/django.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="assets/html5.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="assets/htmx.svg" title="HTMX" alt="HTMX" width="80" height="40"/>&nbsp;
+  <img src="assets/css3.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="assets/javascript.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
+  <img src="assets/alpinejs.svg" title="Alpine.js" alt="Alpine.js" width="80" height="40"/>&nbsp;
+  <img src="assets/sqlite.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+  <img src="assets/postgresql.svg" title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp;
+  <img src="assets/neovim.svg" title="Neovim" alt="Neovim" width="40" height="40"/>&nbsp;
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔥 My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KananHasanov747&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KananHasanov747&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
