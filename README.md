@@ -27,6 +27,12 @@
 
 ### 🔥 My Stats :
 
-![Kanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kananhasanov747&show_icons=true&theme=gruvbox)&nbsp;
+![Kanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kananhasanov747&show_icons=true&theme=dark)&nbsp;
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KananHasanov747&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KananHasanov747&theme=dark)
+
+---
+
+### 🗂️ My Repos :
+
+[![Django Weather App Repo](https://github-readme-stats.vercel.app/api/pin/?username=kananhasanov747&repo=django_weather_app&theme=dark)](https://github.com/KananHasanov747/django_weather_app)
