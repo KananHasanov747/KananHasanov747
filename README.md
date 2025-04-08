@@ -14,7 +14,7 @@
   <img src="assets/javascript.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
   <img src="assets/htmx.svg" title="HTMX" alt="HTMX" width="80" height="40"/>&nbsp;
   <img src="assets/alpinejs.svg" title="Alpine.js" alt="Alpine.js" width="80" height="40"/>&nbsp;
-  <img src="assets/tailwindcss.svg" title="TailwindCSS" alt="TailwindCSS" width="80" height="40"/>&nbsp;
+  <img src="assets/tailwindcss.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
   <img src="assets/docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="assets/sqlite.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="assets/postgresql.svg" title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp;
