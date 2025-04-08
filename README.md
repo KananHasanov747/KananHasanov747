@@ -1,7 +1,9 @@
 👨‍💻 Self-taught Software Engineer
 ---
 
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khasaznade@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/820615010471772190)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kananhasanzade)
 ---
 
 ### 🛠️ Languages and Tools :
