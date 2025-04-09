@@ -4,6 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khasaznade@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/820615010471772190)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kananhasanzade)
+
 ---
 
 ### 🛠️ Languages and Tools :
@@ -24,14 +25,6 @@
   <img src="assets/git.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="assets/neovim.svg" title="Neovim" alt="Neovim" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-### 🔥 My Stats :
-
-![Kanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kananhasanov747&show_icons=true&theme=dark)&nbsp;
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KananHasanov747&theme=dark)
 
 ---
 
